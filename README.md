@@ -1,3 +1,3 @@
-# Deep Dives
+# Playground
 
-Deep dives into core computing technologies.
+A playground for testing technologies I'm interested in.
